@@ -1,0 +1,41 @@
+Breakdown:
+Objective: 
+The game has no objective to complete - 0%
+The game has an objective but no win condition - 10%
+The game has an objective and a win condition - 20%
+
+World Interactions:
+There are no interactions with the external world - 0%
+There are some interactions, but not enough to complete the objective - 10%
+There are enough interactions to complete your objective - 20%
+
+Animations: [Complete][5]
+The game has no animations - 0%
+The game has 2 Unique animations - 7.5%
+The game has 3 or more unique animations - 15%
+{	Walking, being cold [player]
+	Sister waving for help [NPC]
+	Enemy moving, Attcking [Enemy]
+}
+
+
+Menus:
+Required Menus: Main Menu, Pause Menu, Instructions, Credits
+The game has no menus - 0%
+The game has 2 of the required 4 menus- 5%.
+The game has all required menus and the user can return to main menu - 10%
+
+Audio:
+The game has no audio - 0%
+The game has one unique audio track - 5%
+The game has one unique audio track and one unique effect sound - 10%
+
+Input:
+Game Jam - Final 3
+Using old input system - 0%
+Using new input system - 10%
+[Complete]
+
+Theme:
+The game does not include features related to the assigned theme - 0%
+The game includes features that relate to the assigned theme - 10%
