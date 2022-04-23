@@ -45,11 +45,15 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-
         Vector3 move = new Vector3(inputVector.x, 0, inputVector.y);
-        
+
+        if (playerBodyTemp >= 10)
+        {
+            move = Vector3.zero;
+        }
+
         //If check to get rid of that annoying warning that pops up for having no input. 
-        if(move != Vector3.zero)
+        if (move != Vector3.zero)
         {
             transform.rotation = Quaternion.LookRotation(move);
         }

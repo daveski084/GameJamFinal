@@ -11,7 +11,7 @@ public class TimerManScript : MonoBehaviour
     {
         timer
         .SetDuration(180)
-        .OnEnd(() => SceneManager.LoadScene("GameOver"))
+        .OnEnd(() => SceneManager.LoadScene("Death"))
         .Begin();
     }
 

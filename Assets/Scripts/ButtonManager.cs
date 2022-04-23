@@ -12,6 +12,12 @@ public class ButtonManager : MonoBehaviour
         SceneManager.LoadScene("MainMenu"); 
     }
 
+    public void OnGoBackToMainPause()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene("MainMenu"); 
+    }
+
     public void OnQuitButtonPressed()
     {
         Application.Quit(); 

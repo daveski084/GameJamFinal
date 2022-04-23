@@ -1187,7 +1187,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: You are trapped in a frozen realm! It is so cold here that you can only
     face it for 10 seconds. Use the stools by the fires to warm up. You and your
-    sister cannot leave until you get all three poitions. Becareful,you only have
+    sister cannot leave until you get all three poitions. Becareful, you only have
     three minutes before the realm collapses.
 --- !u!222 &2074521887
 CanvasRenderer:
